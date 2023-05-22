@@ -1,5 +1,11 @@
 gitb### Java template
+\out
+\ *.aml
+
+git add
 # Compiled class file
+\out
+
 *.class
 
 # Log file
